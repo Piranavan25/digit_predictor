@@ -48,6 +48,8 @@ npm run dev
 
 Example:
 
+![Digit Predictor Demo](demo/model_acccuracy.png)
+![Digit Predictor Demo](demo/confusion_matrix.png)
 ![Digit Predictor Demo](demo/frontend.png)
 ![Digit Predictor Demo](demo/prediction_1.png)
 ![Digit Predictor Demo](demo/prediction_2.png)
